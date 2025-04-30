@@ -1,0 +1,5 @@
+flask
+opencv-python-headless
+matplotlib
+numpy
+gunicorn
